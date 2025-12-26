@@ -1,0 +1,5 @@
+{
+  "name": "Decentro API Discovery Nexus",
+  "description": "A high-performance, use-case-driven API exploration portal for Decentro, featuring an AI-powered discovery engine to bridge the gap between business intent and technical implementation.",
+  "requestFramePermissions": []
+}
